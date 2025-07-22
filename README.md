@@ -15,7 +15,7 @@ Predict whether a passenger survived or not based on features like age, class, g
 - Submission file generated
 
 ## 📁 Files
-- `titanic_ml.ipynb` → Main notebook
+- `Titanic.ipynb` → Main notebook
 - `submission.csv` → Final predictions for Kaggle submission
 
 ## 🚀 Future Plans
