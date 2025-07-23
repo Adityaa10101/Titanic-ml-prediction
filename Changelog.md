@@ -4,6 +4,7 @@
 - Fixed encoding mismatch between train/test sets
 - Added new features: `FamilySize`, `Alone`, and `Title`
 - Accuracy jumped from **62.2% → 78.2%**
+- Will update the notebooks soon.
 
 ## 🟡 July 22, 2025 - Initial Version
 - Basic Random Forest with raw features
