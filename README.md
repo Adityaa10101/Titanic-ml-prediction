@@ -33,3 +33,8 @@ This project taught me about EDA, preprocessing, one-hot encoding, model trainin
 
 ### 📌 Kaggle Dataset
 [Click here](https://www.kaggle.com/competitions/titanic/data) to access the Titanic dataset.
+
+---
+
+📈 [Check out the update log](updates.md)
+
