@@ -1,5 +1,8 @@
 # 🚧 Updates Log - Titanic ML Project
 
+## ✅ July 24, 2025 - Final Notebook Uploaded
+- Uploaded the Final Submission Ntbk to the Repository
+
 ## ✅ July 23, 2025 - Major Improvement
 - Fixed encoding mismatch between train/test sets
 - Added new features: `FamilySize`, `Alone`, and `Title`
