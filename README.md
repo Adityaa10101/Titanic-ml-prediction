@@ -11,7 +11,8 @@ Predict whether a passenger survived or not based on features like age, class, g
 - Data Cleaning & Null Handling
 - Feature Engineering (Title extraction, encoding)
 - Model Training with XGBoost
-- Accuracy on test data: ~62.2%
+- Initial Accuracy on test data: ~62.2%
+- Final Accuracy on test data:   ~81.1%
 - Submission file generated
 
 ## 📁 Files
